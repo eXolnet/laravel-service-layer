@@ -1,0 +1,26 @@
+
+{
+	"name": "exolnet/laravel-service-layer",
+	"description": "Laravel helper to interact with the eXolnet service layer.",
+	"license": "Apache-2.0",
+	"authors": [
+		{
+			"name": "Alexandre D'Eschambeault",
+			"email": "adeschambeault@exolnet.com"
+		}
+	],
+	"require": {
+		"php": ">=5.5.9",
+		"laravel/framework": "~5.0"
+	},
+	"require-dev": {
+		"phpspec/phpspec": "~2.0",
+		"phpunit/phpunit": "~4.0",
+		"mockery/mockery": "~0.9"
+	},
+	"autoload": {
+		"psr-4": {
+			"Exolnet\\ServiceLayer\\": "src/"
+		}
+	}
+}
