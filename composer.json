@@ -1,7 +1,7 @@
 
 {
 	"name": "exolnet/laravel-service-layer",
-	"description": "Laravel helper to interact with the eXolnet service layer.",
+	"description": "Laravel helper to interact with the eXolnet services.",
 	"license": "Apache-2.0",
 	"authors": [
 		{
